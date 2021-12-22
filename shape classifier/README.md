@@ -48,7 +48,7 @@ Depending on the domain, an automated pipeline can be built to trigger auto trai
 
 I would like to point out that I am more experienced at building end-to-end conversational AI's for contact centers, Intelligent search, and Intelligent document processing systems.
 
-I AM NOT EXPERIENCED WITH THE FRONT END BUT AM WILLING TO LEARN.
+I AM NOT EXPERIENCED WITH THE FRONT END BUT I AM WILLING TO LEARN.
 
 website/profile - https://ayoolafakoya.com
 github - https://github.com/Ayo-faks
