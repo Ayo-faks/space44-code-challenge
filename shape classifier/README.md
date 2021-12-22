@@ -1,5 +1,10 @@
 # SHAPE classification using Amazon Rekognition Custom Labels
 
+Video showing inference - https://screenrec.com/share/0Y8SaEw3An |||
+| -------------- |
+|![](media/screenshot_inference.jpg)|!
+
+
 ## Introduction
 This repo describes how to train a model that can categorize shapes.
 I will be building just the back end as I have little experience with the front end.
