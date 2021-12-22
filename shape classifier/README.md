@@ -38,6 +38,7 @@ The model took roughly an hour to train. The model achieved an average precision
 I could squeeze out more accuracy using a DIY model but sacrificing speed and ease of building.
 
 This is not production worthy as there are security flaws such as
+- hard coding secrets instead of using cloud secret managers.
 - using a Virtual Private Cloud to be able to access VPC-only resources and, resources which cannot be accessed outside a VPC network.
 - Ensure data stored on Machine Learning (ML) storage volumes attached to the notebook instances are encrypted to protect SageMaker data at rest.
 - Notebook instances must not be publicly accessible.
